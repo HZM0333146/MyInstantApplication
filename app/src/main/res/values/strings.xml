@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyInstantApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="you">English</string>
+    <string name="other">Chinese</string>
+    <string name="instant_API_KEY">AIzaSyB6AT6sS4COzbszZ7k2tGJzwBwLQVgE9HE</string>
+    <string-array name="trans_language_text">
+        <item>Your translation is</item>
+        <item>Select what you want to say</item>
+        <item>Please use</item>
+        <item>Say what you are saying</item>
+        <item>Please enter your content</item>
+    </string-array>
+    <string name="title_activity_translation">TranslationActivity</string>
+    <string name="title_activity_basic">BasicActivity</string>
+</resources>
