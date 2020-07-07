@@ -2,7 +2,7 @@
 ----
 ## what is MyInstantApplication?
 
-> 是我大學製作的對講翻譯機，主要以google translation api 進行語言翻譯，此版本是以MPV模式嘗試進行重構，以後要更換翻譯API能夠更方便。
+> 是我大學製作的對講翻譯機，主要以google translation api 進行語言翻譯，此版本是以MPV模式練習嘗試進行重構，希望以後若要更換翻譯API能夠更方便。
 
 ----
 ## function
